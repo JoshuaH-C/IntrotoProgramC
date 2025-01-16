@@ -1,0 +1,14 @@
+/*
+    Variables introduction.
+*/
+
+//Preprocessor directive
+//stdio - standard input output
+#include <stdio.h>
+
+//Create a main function
+int main() {
+    //Create a variable
+    int first_number;
+    //Assign the value
+}
